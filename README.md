@@ -135,7 +135,7 @@ Develop advanced healthcare monitoring dashboards
 
 Integrate with hospital management systems
 
-Demo Link:- https://drive.google.com/file/d/1w1sf8PR2xz6xfMq7-PijTCnwwIEX_dFt/view?usp=drivesdk
+Demo Link:- https://drive.google.com/file/d/1LAdMKvVOfOmL83xP3_tzIsuoo5_s25kK/view?usp=drive_link
 
 
 👨‍💻 Author
