@@ -135,12 +135,12 @@ Develop advanced healthcare monitoring dashboards
 
 Integrate with hospital management systems
 
-Demo Link:- https://drive.google.com/file/d/1w1sf8PR2xz6xfMq7-PijTCnwwIEX_dFt/view
+Demo Link:- https://drive.google.com/file/d/1w1sf8PR2xz6xfMq7-PijTCnwwIEX_dFt/view?usp=drivesdk
 
 
 👨‍💻 Author
 
-Bhaktesh Chandajkar
+Srashti Patel
 SmartBridge Project – Heart Disease Analysis
 
 📜 License
